@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "ignore": ["*.test.js", "node_modules/*", "public/*", "sessions.db", "auth.db"],
+  "watch": ["app.js", "routes/*", "middleware/*"],
+  "ext": "js,json"
+}
